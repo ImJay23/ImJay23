@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kumar Jaydeep
-- 👀 I’m interested in Programming, Web Development, Data Analysis
+- 👀 I’m interested in Programming and Web Development
 - 🌱 I’m currently learning Python and its applications
 - 📫 Email me at - kumarjaydeep7979@gmail.com
 - 😄 Pronouns: he/him
